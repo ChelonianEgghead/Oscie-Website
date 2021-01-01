@@ -47,4 +47,18 @@ body {
     font-family: 'Roboto', sans-serif;
     display: none;
   }
-  
+
+  /* Makes hyperlinks same colour as text */
+  a {
+    color: #7289da;
+}
+  /* Align's text to centre */
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
