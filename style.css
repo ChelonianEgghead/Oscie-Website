@@ -39,7 +39,7 @@ body {
   .topnav a.active {
     font-family: 'Roboto', sans-serif;
     background-color: #7289da;
-    color: #23272a;
+    color: #ffffff;
   }
   
   /* Hide the link that should open and close the topnav on small screens */
