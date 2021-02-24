@@ -81,6 +81,12 @@ body {
   right: 8px
 }
 
+.ecdp {
+  position: absolute;
+  bottom: 8px;
+  text-align: center;
+}
+
 /*video {
   padding-top: 5%;
   position: fixed;
