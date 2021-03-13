@@ -76,6 +76,10 @@ body {
   right: 8px
 }
 
+.mySlides {
+  display: none;
+}
+
 /*video {
   padding-top: 5%;
   position: fixed;
