@@ -76,6 +76,10 @@ body {
   right: 8px
 }
 
+.links_learn {
+  margin-left: 20px;
+}
+
 .madeby {
   position: absolute;
   bottom: 8px;
