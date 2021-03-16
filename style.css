@@ -76,6 +76,13 @@ body {
   right: 8px
 }
 
+.madeby {
+  position: absolute;
+  bottom: 8px;
+  text-align: left;
+  left: 8px
+}
+
 .mySlides {
   display: none;
 }
