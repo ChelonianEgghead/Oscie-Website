@@ -89,6 +89,8 @@ body {
 
 .mySlides {
   display: none;
+  max-height: 500px;
+  max-width: 500px;
 }
 
 /*video {
