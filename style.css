@@ -1,4 +1,4 @@
-@import "compass/css3";
+/*@import "compass/css3";
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #2C2F33;
@@ -17,7 +17,7 @@ body {
   }
   
   /* Style the links inside the navigation bar */
-  .topnav a {
+  /*.topnav a {
     font-family: 'Roboto', sans-serif;
     float: left;
     display: block;
@@ -29,27 +29,27 @@ body {
   }
   
   /* Change the color of links on hover */
-  .topnav a:hover {
+  /*.topnav a:hover {
     font-family: 'Roboto', sans-serif;
     background-color: #2C2F33;
     color: #7289da;
   }
   
   /* Add an active class to highlight the current page */
-  .topnav a.active {
+  /*.topnav a.active {
     font-family: 'Roboto', sans-serif;
     background-color: #7289da;
     color: #ffffff;
   }
   
   /* Hide the link that should open and close the topnav on small screens */
-  .topnav .icon {
+  /*.topnav .icon {
     font-family: 'Roboto', sans-serif;
     display: none;
   }
 
   /* Makes hyperlinks same colour as text */
-  a {
+  /*a {
     color: #7289da;
 }
 
