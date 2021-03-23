@@ -106,19 +106,6 @@ body {
 }*/
 
 @media (min-width: 800px){
-    .credits {
-    position: absolute;
-    bottom: 8px;
-    text-align: right;
-    right: 8px
-    }
-
-    .madeby {
-    position: absolute;
-    bottom: 8px;
-    text-align: left;
-    left: 8px
-    }
     .mobile-only {
     display: none;
     }    
@@ -140,4 +127,16 @@ body {
 @media (min-width: 1280px){
     .nonwide-br {
         display: none;
+    .credits {
+        position: absolute;
+        bottom: 8px;
+        text-align: right;
+        right: 8px
+     }
+     .madeby {
+        position: absolute;
+        bottom: 8px;
+        text-align: left;
+        left: 8px
     }
+}
