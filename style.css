@@ -105,7 +105,7 @@ body {
   min-height: 100%;
 }*/
 
-@media (min-width: 1360px){
+@media (min-width: 800px){
     .credits {
     position: absolute;
     bottom: 8px;
@@ -136,3 +136,8 @@ body {
         display: static;
     }
 }
+
+@media (min-width: 1280px){
+    .nonwide-br {
+        display: none;
+    }
