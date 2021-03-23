@@ -127,6 +127,7 @@ body {
 @media (min-width: 1280px){
     .nonwide-br {
         display: none;
+    }
     .credits {
         position: absolute;
         bottom: 8px;
