@@ -125,7 +125,7 @@ body {
 }
 
 @media (min-width: 1280px){
-    .nonwide-br {
+    .nonwide-only {
         display: none;
     }
     .credits {
